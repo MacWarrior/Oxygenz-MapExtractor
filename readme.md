@@ -20,5 +20,5 @@ Développé en Vb.net, cet utilitaire est compatible avec toute version de Windows
 ####1.2
 * Optimisation du code
 * Mise à jour des utilitaires d'extraction
-* Résolution d'un bug empêchant la reprise d'extraction ( Cf. TrinityCore/TrinityCore@62c6ae76605ecb54f266f345470ad75d7a681df8 )
-* Optimisation de l'extraction des DBC ( Cf. TrinityCore/TrinityCore@62c6ae76605ecb54f266f345470ad75d7a681df8 )
+* Résolution d'un bug empêchant la reprise d'extraction ( Cf. [TrinityCore/TrinityCore@62c6ae7](https://github.com/TrinityCore/TrinityCore/commit/62c6ae76605ecb54f266f345470ad75d7a681df8) )
+* Optimisation de l'extraction des DBC ( Cf. [TrinityCore/TrinityCore@62c6ae7](https://github.com/TrinityCore/TrinityCore/commit/62c6ae76605ecb54f266f345470ad75d7a681df8) )
