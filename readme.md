@@ -13,8 +13,10 @@ Développé en Vb.net, cet utilitaire est compatible avec toute version de Windows
 ## Changelog
 ####1.0
 * Extraction des DBC, Maps, VMaps & MMaps
+
 ####1.1
 * Résolution d'un bug faisant crasher l'utilitaire lors d'une reprise d'extraction
+
 ####1.2
 * Optimisation du code
 * Mise à jour des utilitaires d'extraction
