@@ -11,14 +11,17 @@ Développé en Vb.net, cet utilitaire est compatible avec toute version de Windows
 ***
 
 ## Changelog
-####1.0
-* Extraction des DBC, Maps, VMaps & MMaps
-
-####1.1
-* Résolution d'un bug faisant crasher l'utilitaire lors d'une reprise d'extraction
+####1.2.1
+* Mise à jour des utilitaires d'extraction
 
 ####1.2
 * Optimisation du code
 * Mise à jour des utilitaires d'extraction
 * Résolution d'un bug empêchant la reprise d'extraction ( Cf. [TrinityCore/TrinityCore@62c6ae7](https://github.com/TrinityCore/TrinityCore/commit/62c6ae76605ecb54f266f345470ad75d7a681df8) )
 * Optimisation de l'extraction des DBC ( Cf. [TrinityCore/TrinityCore@62c6ae7](https://github.com/TrinityCore/TrinityCore/commit/62c6ae76605ecb54f266f345470ad75d7a681df8) )
+
+####1.1
+* Résolution d'un bug faisant crasher l'utilitaire lors d'une reprise d'extraction
+
+####1.0
+* Extraction des DBC, Maps, VMaps & MMaps

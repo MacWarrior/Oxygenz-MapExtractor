@@ -124,7 +124,7 @@ Partial Class Form1
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "Form1"
-        Me.Text = "Oxygenz - Utilitaire d'extraction V1.2"
+        Me.Text = "Oxygenz - Utilitaire d'extraction V1.2.1"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
