@@ -160,7 +160,6 @@ Public Class Form1
 
             If Me.CheckBox3.Checked.Equals(True) And Not CountFiles("mmaps", "*").Equals(GetMaxCount("mmaps")) Then ' Extraction des MMaps
                 Invoke(New Action(Of Integer, Integer)(AddressOf ChangeTailleFenetre), 341, 218)
-                Invoke(New Action(Of String, Byte())(AddressOf ExtractFile), "ace.dll", My.Resources.ace)
                 Invoke(New Action(Of String, Byte())(AddressOf ExtractFile), "mmaps_generator.exe", My.Resources.mmaps_generator)
                 Invoke(New Action(Of String, Color)(AddressOf ChangeLabel2), "Génération des MMaps en cours...", Color.Black)
 

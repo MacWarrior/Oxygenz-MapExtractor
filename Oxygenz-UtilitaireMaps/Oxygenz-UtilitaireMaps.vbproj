@@ -136,12 +136,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\vmap4extractor.exe" />
-    <None Include="Resources\vmap4assembler.exe" />
-    <None Include="Resources\mmaps_generator.exe" />
-    <None Include="Resources\mapextractor.exe" />
-    <None Include="Resources\ace.dll" />
     <Content Include="Resources\icone.ico" />
+    <Content Include="Resources\mapextractor.exe" />
+    <Content Include="Resources\mmaps_generator.exe" />
+    <Content Include="Resources\vmap4assembler.exe" />
+    <Content Include="Resources\vmap4extractor.exe" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
